@@ -5,6 +5,8 @@
 // @description  Random cheats to increase your cells survival rates!
 // @author       Asexual
 // @match        http://agar.io/
+// @match        http://www.agarboom.com/
+// @match        http://agarioplay.us/
 // @grant        none
 // ==/UserScript==
 
